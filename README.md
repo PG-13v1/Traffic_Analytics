@@ -57,3 +57,12 @@ This project integrates **traffic volume records**, **hourly weather conditions*
        | SQL Analytics + Power BI     |
        | Dashboards + Risk Insights   |
        +------------------------------+
+```
+# SQL Queries
+
+```sql
+SELECT * FROM motor_vehicle_collisions LIMIT 10;
+```
+
+
+
