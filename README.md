@@ -24,7 +24,6 @@ This project integrates **traffic volume records**, **hourly weather conditions*
   - Peak-hour accident risk  
   - Seasonal variation  
   - Weather-linked accident probability  
-- Identified rainfall-linked risk patterns contributing to a **14% higher accident probability during rainy hours**
 
 ---
 
