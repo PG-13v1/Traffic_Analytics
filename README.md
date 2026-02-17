@@ -37,7 +37,7 @@ This project integrates **traffic volume records**, **hourly weather conditions*
                     |
                     v
           +--------------------+
-          | Spark / PySpark ETL|
+          |         ETL        |
           | Hourly Aggregation |
           +--------------------+
                     |
@@ -49,8 +49,8 @@ This project integrates **traffic volume records**, **hourly weather conditions*
                     |
                     v
          +----------------------------+
-         | BigQuery Data Warehouse    |
-         | Partitioned + Clustered    |
+         |    MySQL Data Warehouse    |
+         |  Partitioned + Clustered   |
          +----------------------------+
                     |
                     v
